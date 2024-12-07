@@ -1,1 +1,1 @@
-web: python PRINCE.py
+web: python main.py
